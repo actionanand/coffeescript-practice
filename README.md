@@ -11,6 +11,17 @@ coffee -c hello_world/hello_world.coffee
 ```
 > add loction like above if you're not at the file location
 
+## Automating CoffeeScript compilation
+
+An issue with CoffeeScript is that it puts another layer between you and JavaScript, and having to manually compile CoffeeScript files whenever they change quickly gets old. Fortunately CoffeeScript has some alternative forms of compilation which can make the development cycle somewhat smoother.
+[Source](https://arcturo.github.io/library/coffeescript/05_compiling.html#:~:text=You%20can%20define%20tasks%20using,and%20options%2C%20just%20type%20cake%20. "The Little Book on CoffeeScript")
+
+### How to compile `Cake File`
+- Go inside the folder where `cakefile` resides (say `cd hello_world/`) and execute the following command
+```bash
+cake compile
+```
+
 ## Resources
 * [CoffeScript Official website](https://coffeescript.org/ "CoffeScript Official website")
 * [How Javascript Works](http://crockford.com/javascript/ "crockford")
