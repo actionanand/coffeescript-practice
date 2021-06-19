@@ -19,5 +19,14 @@ coffee -c hello_world/hello_world.coffee
 * [Codewars](https://www.codewars.com/ "Codewars")
 * [Markodenic - JS Git](https://markodenic.com/category/javascript/ "Markodenic")
 
+## Wiki Links
+1. CoffeeScript
+    - [Scope in CoffeeScript](https://github.com/actionanand/coffeescript-practice/wiki/Scope-in-CoffeeScript)
+    - [Cake and cakefiles](https://github.com/actionanand/coffeescript-practice/wiki/Cake-and-cakefiles)
+2. Head-first application development
+    - [Design patterns](https://github.com/actionanand/coffeescript-practice/wiki/Design-Patterns)
+
+[source](https://github.com/DBozhinovski/coffeescript-course "Github - Darko Bozhinovski")
+
 ## License - [MIT](http://opensource.org/licenses/MIT)
 
